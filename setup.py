@@ -18,7 +18,7 @@ def get_requirements(file_path: str) -> List[str]:
 
         return requirements
 setup(
-    name = "HousePrediction",
+    name = "performanceprediction",
     version = '0.0.1',
     author = 'ved',
     author_email = 'vihastvideos21@gmail.com',
