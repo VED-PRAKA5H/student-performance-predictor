@@ -1,8 +1,3 @@
-# ******************************************************************
-# * Data Transformation : Main purpose is to do                    *
-# *                       -> Data Cleaning                         *
-# *                       -> convert cat to num, etc.              *
-# ******************************************************************
 import sys
 from dataclasses import dataclass
 
