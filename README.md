@@ -26,7 +26,6 @@ student-performance-predictor/
 │ │ ├── train_pipeline.py
 │ │ └── predict_pipeline.py
 │ └── templates/
-│   ├── home.html
 │   └── index.html
 ├── app.py
 ├── requirements.txt
@@ -34,7 +33,7 @@ student-performance-predictor/
 ```
 
 ## Technologies Used
-* **Python**: Version 3.9 for core programming.
+* **Python**: Version 3.10 for core programming.
 * **Scikit-learn**: For building and training machine learning models.
 * **Flask**: For creating a web application to serve predictions.
 
